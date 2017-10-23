@@ -33,3 +33,4 @@ public class IndexAction implements Action {
 		// On évite ici de rediriger vers la page .jsp avec les méthodes forward, etc
 	}
 ```
+   Chaque action retourne un ActionResult, qui peut être un ViewResult (envoi de la jsp correspondante), un RedirectResult (redirection vers une autre url) ou un ErrorResult (envoi d'une erreur).
