@@ -53,4 +53,4 @@ public class IndexAction implements Action {
 ## Exemples
 JWeshDemo : https://github.com/lutin2706/JWesh/tree/master/JWeshDemo  
 Forum :   
-Forum de Raphaël : https://github.com/lutin2706/JWesh/tree/master2/JForum  
+Forum de Raphaël : https://github.com/lutin2706/JWesh/tree/master/JForum
