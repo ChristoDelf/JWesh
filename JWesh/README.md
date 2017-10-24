@@ -51,6 +51,6 @@ public class IndexAction implements Action {
    Chaque action retourne un ActionResult, qui peut être un ViewResult (envoi de la jsp correspondante), un RedirectResult (redirection vers une autre url) ou un ErrorResult (envoi d'une erreur).
 
 ## Exemples
-JWeshDemo : https://github.com/lutin2706/JWesh/tree/master/JWeshDemo
-Forum : 
-Forum de Raphaël : https://github.com/lutin2706/JWesh/tree/master2/JForum
+JWeshDemo : https://github.com/lutin2706/JWesh/tree/master/JWeshDemo  
+Forum :   
+Forum de Raphaël : https://github.com/lutin2706/JWesh/tree/master2/JForum  
