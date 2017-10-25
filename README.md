@@ -1,8 +1,11 @@
 # JWesh framework
+Créer un framework, sur base des technologies de base JEE (web.xml, servlets)
 
-L'objectif du framework est de cacher la mécanique des servlets et de l'appel des jsp derrière des nouvelles classes et méthodes liées au framework.  
-  
-## Comment l'utiliser
+## Objectif
+L'objectif du framework est de cacher la mécanique des servlets et de l'appel des jsp derrière des nouvelles classes et méthodes liées au framework. On
+n'utilise plus de web.xml, ni de servlets.
+
+## Comment l'installer/l'utiliser
 * Importer le fichier JWesh.jar dans le build path du projet
 * Définir une classe Init qui étend AppInit pour définir le mapping (association d'une URL/méthode à une action)
 
